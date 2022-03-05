@@ -8,14 +8,10 @@
 
 🔰🔰♻️♻️This YouTube channel has new videos uploaded almost every day! Subscribe for technical, detailed, no fluff content.
 ♨️♨️♨️YouTube Channel link  https://youtube.com/channel/UC_k3hWQZmMSCDc6gHuKATow
-✅✅WHATSAPP GROUP LINK
-https://chat.whatsapp.com/D6hsxLmnvjw4U68do9NRwv
-♨️♨️♨️TELEGRAM CHANNEL link
-https://t.me/+js7vo-1maiEzNDM0
-Telegram Group link 
-https://t.me/hackingstudioke
 Twitter account
 https://twitter.com/marcoz_ke
+Telegram Channel
+https://t.me/+js7vo-1maiEzNDM0
 <!---
 GhostKE/GhostKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

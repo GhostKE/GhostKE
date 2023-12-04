@@ -1,18 +1,33 @@
-- 👋 Hi, I’m @GhostKE
-*Hacking Studio's KE* 
-🔰🔰Want to learn about IT?
-🔰🔰Want to get ahead in your career?
-🔰🔰Well, this is the right place! 
+HackNetworks KE - Your IT Journey Begins Here.
 
-🔰🔰On this channel, I discuss Python, Network Automation, Ethical Hacking, Networking, Kali Linux, Virtualization and other IT related topics.
+Welcome to HackNetworks KE, powered by Marco, your gateway to IT mastery!
 
-🔰🔰♻️♻️This YouTube channel has new videos uploaded almost every day! Subscribe for technical, detailed, no fluff content.
-♨️♨️♨️YouTube Channel link  https://youtube.com/channel/UC_k3hWQZmMSCDc6gHuKATow
-Twitter account
-https://twitter.com/marcoz_ke
-Telegram Channel
-https://t.me/+js7vo-1maiEzNDM0
-<!---
-GhostKE/GhostKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Your Learning Journey
+
+HackNetworks KE is your passport to the world of IT. We're here to equip you with skills in Python, Network Automation, Ethical Hacking, Networking, Kali Linux, Virtualization, and more. Whether you're starting or a seasoned pro, we've got you covered.
+
+Community Learning
+
+Join our inclusive community. Learning is better together. Ask questions, share insights, and collaborate with IT enthusiasts worldwide.
+
+Our Pillars
+
+1. Python Programming: From basics to advanced, we'll guide you through Python.
+
+2. Network Automation: Learn to automate networks for efficiency.
+
+3. Ethical Hacking: Discover how ethical hackers protect systems.
+
+4. Networking Fundamentals: Understand networking concepts.
+
+5. Kali Linux Mastery: Dive into this powerful platform.
+
+6. Virtualization Techniques: Explore the world of virtualization.
+
+Our Commitment
+
+We provide practical, hands-on content. Demystify complex topics and apply your learning immediately.
+
+Join Our Community
+
+Subscribe and hit the bell. Your journey into IT starts now. Let's unlock your IT potential together at HackNetworks KE.
